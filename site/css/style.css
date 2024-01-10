@@ -1,0 +1,161 @@
+.header
+{
+	background: #159576;
+}
+.container
+{
+ width: 1300px;
+ margin: 0 auto;
+}
+.nav_list
+{
+	display: flex;
+	list-style: none
+}
+.nav_item
+{
+	margin-left: 63px;
+	color: #E4E4E4;
+
+font-family: Nico Moji;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.container_header
+{
+	display: flex;
+	align-items: center;
+	padding: 36px 0;
+}
+.header_title
+{
+	margin-right: auto;
+}
+.hero-block
+{
+	background: #3FE764;
+}
+.container_hero-block
+{
+	padding: 30px;
+	display: flex;
+}
+.hero-block_title
+{
+	color: #FFF500;
+
+font-family: Nico Moji;
+font-size: 72px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.hero-block_btn
+{
+width: 220px;
+height: 48px;
+flex-shrink: 0;
+border-radius: 6px;
+background: #FFD600;
+color: #000;
+font-family: Nico Moji;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.hero-block_img
+{
+	margin-left: 400px;
+
+}
+.about
+{
+	background: #493BA3;
+	padding: 40px 0;
+}
+.about_title
+{
+	color: #81BECE;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+font-family: Nico Moji;
+font-size: 48px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-align: center;
+}
+.about_text
+{
+	color: #81BECE;
+font-family: Nico Moji;
+font-size: 48px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+width: 50%;
+}
+.about_content
+{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.video
+{
+	background: #FF8A00;
+	padding: 70px 0 90px;
+	text-align: center;
+}
+.video_video
+{
+	border: 50px groove #FF0000;
+	border-radius: 29px;
+	width: 774px;
+   height: 459px;
+}
+.video_title
+{
+	color: #152C39;
+font-family: Nico Moji;
+font-size: 48px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-align: center;
+}
+.gallery_list
+{
+	display: flex;
+	flex-wrap: wrap;
+	margin: 0;
+	padding: 0;
+}
+.gallery_item
+{
+	width: 50%;
+	list-style: none;
+	margin-top: -10px;
+}
+.gallery_img
+{
+	width: 100%;
+	height:100%;
+}
+.container_gallery
+{
+	background: #4DD737;
+	padding: 70px 0;
+}
+.gallery_title
+{
+	color: #B4EEEE;
+font-family: Nico Moji;
+font-size: 48px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-align: center;
+}
